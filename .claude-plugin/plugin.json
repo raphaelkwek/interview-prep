@@ -1,0 +1,16 @@
+{
+  "name": "interview-prep",
+  "version": "0.2.0",
+  "description": "Sends parallel research agents out to work out what an interview is likely to test, then turns their findings into a prep brief and runs mock interviews from it.",
+  "author": {
+    "name": "raphaelkwek",
+    "url": "https://github.com/raphaelkwek"
+  },
+  "keywords": [
+    "interview",
+    "career",
+    "research",
+    "job-search",
+    "mock-interview"
+  ]
+}

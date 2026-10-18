@@ -1,0 +1,15 @@
+{
+  "name": "raphael-plugins",
+  "description": "Claude plugins by raphaelkwek.",
+  "owner": {
+    "name": "raphaelkwek",
+    "url": "https://github.com/raphaelkwek"
+  },
+  "plugins": [
+    {
+      "name": "interview-prep",
+      "source": "./",
+      "description": "Research agents that figure out what your interview will test, plus mock interviews."
+    }
+  ]
+}
